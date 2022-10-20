@@ -27,3 +27,7 @@ function App() {
 }
 
 export default App;
+
+// Add a basic checkout form (name, address, submit btn )
+// Validate user input before submit
+// Fetch meal data from the server
